@@ -1,5 +1,2 @@
-### Hi there 👋
+## Please Check My Bio
 
-I'M AgentDeath
-
-check https://AgentDeath.net
