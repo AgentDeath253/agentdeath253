@@ -102,7 +102,7 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-53j4lc52q-agentdeath253.vercel.app/api/spotify" alt="Widget with the current Spotify song"  />
+  <img src="https://agentdeath253.vercel.app/api/spotify" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
