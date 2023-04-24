@@ -88,7 +88,7 @@
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <a href="https://open.spotify.com/user/31dh22r54aueylrjr63y5xesfkpm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dh22r54aueylrjr63y5xesfkpm&count=10" alt="Spotify recently played"  />
   </a>
@@ -103,7 +103,7 @@
 
 <div align="center">
   <img src="https://spotify-tau-dun.vercel.app/api/spotify" alt="Widget with the current Spotify song"  />
-</div>
+</div> -->
 
 ###
 
