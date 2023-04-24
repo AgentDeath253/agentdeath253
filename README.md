@@ -74,7 +74,7 @@
 <p align="center"><a href="mailto:security@agentdeath.net"> Send Me a Security Email</a></p>
 
 ###
-<p align="center">Here You Can See My Blog Posts:</p>
+<!-- <p align="center">Here You Can See My Blog Posts:</p>
 
 ###
 
@@ -88,7 +88,7 @@
 
 ###
 
-<!--<div align="center">
+<div align="center">
   <a href="https://open.spotify.com/user/31dh22r54aueylrjr63y5xesfkpm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dh22r54aueylrjr63y5xesfkpm&count=10" alt="Spotify recently played"  />
   </a>
