@@ -74,15 +74,6 @@
 <p align="center"><a href="mailto:security@agentdeath.net"> Send Me a Security Email</a></p>
 
 ###
- <p align="center">Here You Can See My Blog Posts:</p>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@AgentDeath&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <p align="center">Recently Played Songs On Spotify:</p>
 
@@ -110,11 +101,19 @@
 <p align="center">My GitHub Stats:</p>
 
 ###
-
 <div align="center">
-<img src="https://github.com/agentdeath253/stats/blob/master/generated/overview.svg#gh-dark-mode-only" height="150" alt="stats graph"/> 
- <img src="https://github.com/agentdeath253/stats/blob/master/generated/languages.svg#gh-dark-mode-only" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AgentDeath253&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgentDeath253&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AgentDeath253&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AgentDeath253/AgentDeath253/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/AgentDeath253/count.svg?"  />
