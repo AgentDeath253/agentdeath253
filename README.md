@@ -74,7 +74,7 @@
 <p align="center"><a href="mailto:security@agentdeath.net"> Send Me a Security Email</a></p>
 
 ###
-<!-- <p align="center">Here You Can See My Blog Posts:</p>
+ <p align="center">Here You Can See My Blog Posts:</p>
 
 ###
 
@@ -103,7 +103,7 @@
 
 <div align="center">
   <img src="https://spotify-tau-dun.vercel.app/api/spotify" alt="Widget with the current Spotify song"  />
-</div> -->
+</div>
 
 ###
 
