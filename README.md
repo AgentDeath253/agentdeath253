@@ -73,28 +73,6 @@
 <p align="center"><a href="mailto:me@agentdeath.net">Send Me A General Email</a></p>
 <p align="center"><a href="mailto:security@agentdeath.net"> Send Me a Security Email</a></p>
 
-###
-
-<p align="center">Recently Played Songs On Spotify:</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31dh22r54aueylrjr63y5xesfkpm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dh22r54aueylrjr63y5xesfkpm&count=10" alt="Spotify recently played"  />
-  </a>
-</div>
-
-
-###
-
-<p align="center">Currently Playing On Spotify:</p>
-
-###
-
-<div align="center">
-  <img src="https://spotify-tau-dun.vercel.app/api/spotify" alt="Widget with the current Spotify song"  />
-</div>
 
 ###
 
